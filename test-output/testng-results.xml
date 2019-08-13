@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20670" started-at="2019-08-12T23:36:05Z" finished-at="2019-08-12T23:36:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20670" started-at="2019-08-12T23:36:05Z" finished-at="2019-08-12T23:36:26Z">
+      <class name="testCases.TestCase1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testCases.TestCase1@71318ec4]" name="beforeSuite" is-config="true" duration-ms="448" started-at="2019-08-12T23:36:05Z" finished-at="2019-08-12T23:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testCases.TestCase1@71318ec4]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-08-12T23:36:05Z" finished-at="2019-08-12T23:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testCases.TestCase1@71318ec4]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-08-12T23:36:06Z" finished-at="2019-08-12T23:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testCases.TestCase1@71318ec4]" name="beforemethod" is-config="true" duration-ms="8625" started-at="2019-08-12T23:36:06Z" finished-at="2019-08-12T23:36:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="NotPwned()[pri:0, instance:testCases.TestCase1@71318ec4]" name="NotPwned" duration-ms="1983" started-at="2019-08-12T23:36:14Z" finished-at="2019-08-12T23:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NotPwned -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.TestCase1@71318ec4]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-08-12T23:36:16Z" finished-at="2019-08-12T23:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testCases.TestCase1@71318ec4]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-08-12T23:36:26Z" finished-at="2019-08-12T23:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testCases.TestCase1@71318ec4]" name="afterSuite" is-config="true" duration-ms="341" started-at="2019-08-12T23:36:26Z" finished-at="2019-08-12T23:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testCases.TestCase1 -->
+      <class name="testCases.TestCase2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testCases.TestCase2@21213b92]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-08-12T23:36:16Z" finished-at="2019-08-12T23:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testCases.TestCase2@21213b92]" name="beforemethod" is-config="true" duration-ms="7940" started-at="2019-08-12T23:36:16Z" finished-at="2019-08-12T23:36:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Pwned()[pri:0, instance:testCases.TestCase2@21213b92]" name="Pwned" duration-ms="2074" started-at="2019-08-12T23:36:24Z" finished-at="2019-08-12T23:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pwned -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.TestCase2@21213b92]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-08-12T23:36:26Z" finished-at="2019-08-12T23:36:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
